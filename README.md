@@ -18,6 +18,11 @@ On-device deep learning enables performing inference with models directly on a d
   [[pdf]](https://arxiv.org/pdf/2204.11075.pdf)
   [[code]](https://github.com/Jinxhy/SmartAppAttack)\
   venue: *IEEE Transactions on Information Forensics and Security 2022 (TIFS-2022)*
+
+- Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps.
+  [[pdf]](https://www.usenix.org/system/files/sec21-sun-zhichuang.pdf)
+  [[code]](https://github.com/RiS3-Lab/ModelXRay)\
+  venue: *30th USENIX Security Symposium (USENIX-Security-2021)*
   
 - Robustness of on-device models: Adversarial attack to deep learning models on android apps.
   [[pdf]](https://arxiv.org/pdf/2101.04401.pdf)
