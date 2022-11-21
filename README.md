@@ -1,1 +1,1 @@
-# On-device-Deep-Learning-Resources
+# On-device Deep Learning Resources
