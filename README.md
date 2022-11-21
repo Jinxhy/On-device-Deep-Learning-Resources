@@ -11,7 +11,7 @@ On-device deep learning enables performing inference with models directly on a d
 - Works offline: network connectivity is not required.
 - No cost: paying for cloud computing cycles is not needed.
 
-## News :loudspeaker:
+## News :loudspeaker: :mega:
 
 ## On-device Deep Learning Security
 - Understanding Real-world Threats to Deep Learning Models in Android Apps.
