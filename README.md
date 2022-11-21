@@ -30,5 +30,8 @@ On-device deep learning enables performing inference with models directly on a d
   venue: *IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice 2021 (ICSE-SEIP-2021)*
   
 
-
 ## On-device Deep Learning Software Engineering
+- A First Look at Deep Learning Apps on Smartphones.
+  [[pdf]](https://arxiv.org/pdf/1812.05448.pdf)
+  [[code]](https://github.com/xumengwei/MobileDL)\
+  venue: *The World Wide Web Conference 2019 (WWW-2021)*
