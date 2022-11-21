@@ -41,6 +41,11 @@ On-device deep learning enables performing inference with models directly on a d
   
 
 ## On-device Deep Learning Software Engineering
+- An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications.
+  [[pdf]](https://arxiv.org/pdf/2101.04930.pdf)
+  [[code]](https://github.com/chenzhenpeng18/icse2021)\
+  venue: *IEEE/ACM 43rd International Conference on Software Engineering 2021 (ICSE-2021)*
+  
 - A First Look at Deep Learning Apps on Smartphones.
   [[pdf]](https://arxiv.org/pdf/1812.05448.pdf)
   [[code]](https://github.com/xumengwei/MobileDL)\
