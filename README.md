@@ -4,4 +4,4 @@ This GitHub repository summarizes a list of **On-device Deep Learning** resource
 We will keep maintaining this list in a daily or weekly manner. 
 
 
-**Why On-device Deep Learning?**
+#### Why On-device Deep Learning?**
