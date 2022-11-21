@@ -14,9 +14,10 @@ On-device deep learning enables performing inference with models directly on a d
 ## News
 
 ## On-device Deep Learning Security
-- Robustness of on-device models: Adversarial attack to deep learning models on android apps
+- Robustness of on-device models: Adversarial attack to deep learning models on android apps.
   [[pdf]](https://arxiv.org/pdf/2101.04401.pdf)
   [[code]](https://github.com/Jinxhy/AppAIsecurity)
+  - 2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
 - 
 
 ## On-device Deep Learning Software Engineering
