@@ -14,10 +14,16 @@ On-device deep learning enables performing inference with models directly on a d
 ## News
 
 ## On-device Deep Learning Security
+- Smart App Attack: Hacking Deep Learning Models in Android Apps.
+  [[pdf]](https://arxiv.org/pdf/2204.11075.pdf)
+  [[code]](https://github.com/Jinxhy/SmartAppAttack)\
+  venue: IEEE Transactions on Information Forensics and Security 2022 (TIFS-2022)
+  
 - Robustness of on-device models: Adversarial attack to deep learning models on android apps.
   [[pdf]](https://arxiv.org/pdf/2101.04401.pdf)
   [[code]](https://github.com/Jinxhy/AppAIsecurity)\
   venue: IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice 2021 (ICSE-SEIP-2021)
-- 
+  
+
 
 ## On-device Deep Learning Software Engineering
