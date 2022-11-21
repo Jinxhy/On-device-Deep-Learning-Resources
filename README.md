@@ -14,6 +14,11 @@ On-device deep learning enables performing inference with models directly on a d
 ## News
 
 ## On-device Deep Learning Security
+- Understanding Real-world Threats to Deep Learning Models in Android Apps.
+  [[pdf]](https://arxiv.org/pdf/2209.09577.pdf)
+  [[code]](https://github.com/Advdroid/advdroid-pro)\
+  venue: *ACM SIGSAC Conference on Computer and Communications Security 2022 (CCS-2022)*
+  
 - Smart App Attack: Hacking Deep Learning Models in Android Apps.
   [[pdf]](https://arxiv.org/pdf/2204.11075.pdf)
   [[code]](https://github.com/Jinxhy/SmartAppAttack)\
