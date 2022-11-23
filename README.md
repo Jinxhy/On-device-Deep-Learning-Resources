@@ -56,3 +56,7 @@ On-device deep learning enables performing inference with models directly on a d
   [[pdf]](https://arxiv.org/pdf/1812.05448.pdf)
   [[code]](https://github.com/xumengwei/MobileDL)\
   venue: *The World Wide Web Conference 2019 (WWW-2021)*
+
+## Contribution
+Any contributions to this list are more than welcome!
+Feel free to contact [Yujin Huang](jinxwasstorm@gmail.com).
