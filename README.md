@@ -58,5 +58,4 @@ On-device deep learning enables performing inference with models directly on a d
   venue: *The World Wide Web Conference 2019 (WWW-2021)*
 
 ## Contribution
-Any contributions to this list are more than welcome!\
-Feel free to contact Yujin Huang <jinxwasstorm@gmail.com>.
+Any contributions to this list are more than welcome! Feel free to contact Yujin Huang <jinxwasstorm@gmail.com>.
