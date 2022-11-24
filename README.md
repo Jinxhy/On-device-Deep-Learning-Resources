@@ -58,6 +58,10 @@ On-device deep learning enables performing inference with models directly on a d
   venue: *The World Wide Web Conference 2019 (WWW-2021)*
 
 ## On-device Deep Learning Algorithm
-
+- p-Meta: Towards On-device Deep Model Adaptation.
+  [[pdf]](https://arxiv.org/pdf/2206.12705.pdf)\
+  venue: *The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2022 (KDD-2022)*
+  
+  
 ## Contribution
 Any contributions to this list are more than welcome! Feel free to contact Yujin Huang <jinxwasstorm@gmail.com>.
