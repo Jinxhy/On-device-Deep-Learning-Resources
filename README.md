@@ -15,6 +15,10 @@ On-device deep learning enables performing inference with models directly on a d
 22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
 
 ## On-device Deep Learning Security
+- Publishing Efficient On-device Models Increases Adversarial Vulnerability.
+  [[pdf]](https://openreview.net/pdf?id=nbNdDm1x3c)\
+  venue: *1st IEEE Conference on Secure and Trustworthy Machine Learning 2023 (SaTML-2023)*
+
 - Understanding Real-world Threats to Deep Learning Models in Android Apps.
   [[pdf]](https://arxiv.org/pdf/2209.09577.pdf)
   [[code]](https://github.com/Advdroid/advdroid-pro)\
