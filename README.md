@@ -78,7 +78,7 @@ On-device deep learning enables performing inference with models directly on a d
 
 - DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449942)
-  [[code]]([https://github.com/xumengwei/MobileDL](https://github.com/hanjialiang/DeepRec))\
+  [[code]](https://github.com/hanjialiang/DeepRec)\
   venue: *The Web Conference 2021 (WWW-2021)*
   
 ## Contribution
