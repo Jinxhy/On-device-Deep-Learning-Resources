@@ -46,6 +46,11 @@ On-device deep learning enables performing inference with models directly on a d
   
 
 ## On-device Deep Learning Software Engineering
+- Mandheling: mixed-precision on-device DNN training with DSP offloading.
+  [[pdf]](https://arxiv.org/pdf/2206.07509.pdf)
+  [[code]](https://github.com/UbiquitousLearning/Mandheling-DSP-Training)\
+  venue: *Proceedings of the 28th Annual International Conference on Mobile Computing And Networking 2022 (MobiCom-2022)*
+
 - A Comprehensive Benchmark of Deep Learning Libraries on Mobile Devices.
   [[pdf]](https://arxiv.org/pdf/2202.06512.pdf)
   [[code]](https://github.com/UbiquitousLearning/MobileDLFrameworksBenchmark)\
