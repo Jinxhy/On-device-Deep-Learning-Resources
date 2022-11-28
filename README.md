@@ -77,6 +77,10 @@ On-device deep learning enables performing inference with models directly on a d
   venue: *The Web Conference 2019 (WWW-2019)*
 
 ## On-device Deep Learning Algorithm
+- Learning Compressed Embeddings for On-Device Inference.
+  [[pdf]](https://proceedings.mlsys.org/paper/2022/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf)\
+  venue: *Proceedings of Machine Learning and Systems 4 (MLSys-2022)*
+
 - p-Meta: Towards On-device Deep Model Adaptation.
   [[pdf]](https://arxiv.org/pdf/2206.12705.pdf)\
   venue: *The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2022 (KDD-2022)*
