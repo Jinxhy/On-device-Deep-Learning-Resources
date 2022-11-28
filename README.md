@@ -54,7 +54,7 @@ On-device deep learning enables performing inference with models directly on a d
 - A Comprehensive Benchmark of Deep Learning Libraries on Mobile Devices.
   [[pdf]](https://arxiv.org/pdf/2202.06512.pdf)
   [[code]](https://github.com/UbiquitousLearning/MobileDLFrameworksBenchmark)\
-  venue: *Proceedings of the ACM Web Conference 2022 (WWW-2022)*
+  venue: *The Web Conference 2022 (WWW-2022)*
   
 - MLPerf Mobile Inference Benchmark: An Industry-Standard Open-Source Machine Learning Benchmark for On-Device AI.
   [[pdf]](https://proceedings.mlsys.org/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
@@ -69,13 +69,17 @@ On-device deep learning enables performing inference with models directly on a d
 - A First Look at Deep Learning Apps on Smartphones.
   [[pdf]](https://arxiv.org/pdf/1812.05448.pdf)
   [[code]](https://github.com/xumengwei/MobileDL)\
-  venue: *The World Wide Web Conference 2019 (WWW-2019)*
+  venue: *The Web Conference 2019 (WWW-2019)*
 
 ## On-device Deep Learning Algorithm
 - p-Meta: Towards On-device Deep Model Adaptation.
   [[pdf]](https://arxiv.org/pdf/2206.12705.pdf)\
   venue: *The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2022 (KDD-2022)*
-  
+
+- DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449942)
+  [[code]]([https://github.com/xumengwei/MobileDL](https://github.com/hanjialiang/DeepRec))\
+  venue: *The Web Conference 2021 (WWW-2021)*
   
 ## Contribution
 Any contributions to this list are more than welcome! Feel free to contact Yujin Huang <Yujin.Huang@monash.edu>.
