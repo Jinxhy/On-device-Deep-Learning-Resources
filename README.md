@@ -46,6 +46,11 @@ On-device deep learning enables performing inference with models directly on a d
   
 
 ## On-device Deep Learning Software Engineering
+- Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning.
+  [[pdf]](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)
+  [[code]](https://github.com/qipengwang/Melon)\
+  venue: *The 20th Annual International Conference on Mobile Systems, Applications and Services 2022 (MobiSys-2022)*
+  
 - Mandheling: Mixed-Precision On-Device DNN Training with DSP Offloading.
   [[pdf]](https://arxiv.org/pdf/2206.07509.pdf)
   [[code]](https://github.com/UbiquitousLearning/Mandheling-DSP-Training)\
