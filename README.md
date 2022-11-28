@@ -78,4 +78,4 @@ On-device deep learning enables performing inference with models directly on a d
   
   
 ## Contribution
-Any contributions to this list are more than welcome! Feel free to contact Yujin Huang <jinxwasstorm@gmail.com>.
+Any contributions to this list are more than welcome! Feel free to contact Yujin Huang <Yujin.Huang@monash.edu>.
