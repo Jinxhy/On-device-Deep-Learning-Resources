@@ -59,7 +59,7 @@ On-device deep learning enables performing inference with models directly on a d
 - MLPerf Mobile Inference Benchmark: An Industry-Standard Open-Source Machine Learning Benchmark for On-Device AI.
   [[pdf]](https://proceedings.mlsys.org/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
   [[code]](https://github.com/mlcommons)\
-  venue: *Proceedings of Machine Learning and Systems 4 (MLSys 2022)*
+  venue: *Proceedings of Machine Learning and Systems 4 (MLSys-2022)*
   
 - An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications.
   [[pdf]](https://arxiv.org/pdf/2101.04930.pdf)
