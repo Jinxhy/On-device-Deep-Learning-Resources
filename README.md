@@ -46,6 +46,11 @@ On-device deep learning enables performing inference with models directly on a d
   
 
 ## On-device Deep Learning Software Engineering
+- NNStreamer: Efficient and Agile Development of On-Device AI Systems.
+  [[pdf]](https://arxiv.org/pdf/2101.06371.pdf)
+  [[code]](https://github.com/nnstreamer/nnstreamer)\
+  venue: *IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice 2021 (ICSE-SEIP-2021)*
+
 - Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning.
   [[pdf]](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)
   [[code]](https://github.com/qipengwang/Melon)\
