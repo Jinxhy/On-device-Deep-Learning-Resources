@@ -65,6 +65,11 @@ On-device deep learning enables performing inference with models directly on a d
   [[pdf]](https://proceedings.mlsys.org/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
   [[code]](https://github.com/mlcommons)\
   venue: *Proceedings of Machine Learning and Systems 4 (MLSys-2022)*
+
+- Mistify: Automating DNN Model Porting for On-Device Inference at the Edge.
+  [[pdf]](https://www.usenix.org/system/files/nsdi21-guo.pdf)
+  [[code]](https://github.com/PatrickGuo/Mistify)\
+  venue: *Proceedings of the 18th USENIX Symposium on Networked Systems Design and Implementation 2021 (NSDI-2021)*
   
 - An Empirical Study on Deployment Faults of Deep Learning Based Mobile Applications.
   [[pdf]](https://arxiv.org/pdf/2101.04930.pdf)
