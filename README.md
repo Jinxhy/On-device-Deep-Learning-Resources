@@ -39,7 +39,7 @@ On-device deep learning enables performing inference with models directly on a d
   [[code]](https://github.com/yuanchun-li/DeepPayload)\
   venue: *IEEE/ACM 43rd International Conference on Software Engineering 2021 (ICSE-2021)*
 
-- Robustness of on-Device Models: Adversarial Attack to Deep Learning Models on Android Apps.
+- Robustness of on-device Models: Adversarial Attack to Deep Learning Models on Android Apps.
   [[pdf]](https://arxiv.org/pdf/2101.04401.pdf)
   [[code]](https://github.com/Jinxhy/AppAIsecurity)\
   venue: *IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice 2021 (ICSE-SEIP-2021)*
