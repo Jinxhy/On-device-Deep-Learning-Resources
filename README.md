@@ -15,6 +15,10 @@ On-device deep learning enables performing inference with models directly on a d
 22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
 
 ## On-device Deep Learning Security
+- ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2011.05905.pdf)\
+  venue: *2023 IEEE Symposium on Security and Privacy (SP-2023)*
+  
 - Publishing Efficient On-device Models Increases Adversarial Vulnerability.
   [[pdf]](https://openreview.net/pdf?id=nbNdDm1x3c)\
   venue: *1st IEEE Conference on Secure and Trustworthy Machine Learning 2023 (SaTML-2023)*
