@@ -17,7 +17,7 @@ On-device deep learning enables performing inference with models directly on a d
 ## On-device Deep Learning Security
 - ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2011.05905.pdf)\
-  venue: *2023 IEEE Symposium on Security and Privacy (SP-2023)*
+  venue: *2023 IEEE Symposium on Security and Privacy (S&P-2023)*
   
 - Publishing Efficient On-device Models Increases Adversarial Vulnerability.
   [[pdf]](https://openreview.net/pdf?id=nbNdDm1x3c)\
