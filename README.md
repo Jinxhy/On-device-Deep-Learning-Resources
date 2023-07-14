@@ -15,6 +15,11 @@ On-device deep learning enables performing inference with models directly on a d
 22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
 
 ## On-device Deep Learning Security
+- ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems.
+  [[pdf]](https://nzjohng.github.io/publications/papers/issta2023.pdf)\
+  [[code]](https://github.com/zhoumingyi/ModelObfuscator)\
+  venue: *The 32nd edition of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA-2023)*
+  
 - ShadowNet: A Secure and Efficient On-device Model Inference System for Convolutional Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2011.05905.pdf)\
   venue: *2023 IEEE Symposium on Security and Privacy (S&P-2023)*
