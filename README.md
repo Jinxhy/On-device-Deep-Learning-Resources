@@ -16,7 +16,7 @@ On-device deep learning enables performing inference with models directly on a d
 
 ## On-device Deep Learning Security
 - ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems.
-  [[pdf]](https://nzjohng.github.io/publications/papers/issta2023.pdf)\
+  [[pdf]](https://nzjohng.github.io/publications/papers/issta2023.pdf)
   [[code]](https://github.com/zhoumingyi/ModelObfuscator)\
   venue: *The 32nd edition of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA-2023)*
   
