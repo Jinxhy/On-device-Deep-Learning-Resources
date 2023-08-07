@@ -53,12 +53,6 @@ On-device deep learning enables performing inference with models directly on a d
   [[code]](https://github.com/Jinxhy/AppAIsecurity)\
   venue: *IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice 2021 (ICSE-SEIP-2021)*
 
-## On-device Deep Learning Privacy
-- DeepRec: On-device Deep Learning for Privacy-Preserving Sequential Recommendation in Mobile Commerce.
-  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449942)
-  [[code]](https://github.com/hanjialiang/DeepRec)\
-  venue: *The Web Conference 2021 (WWW-2021)*
-
 ## On-device Deep Learning Software Engineering
 - NNStreamer: Efficient and Agile Development of On-Device AI Systems.
   [[pdf]](https://arxiv.org/pdf/2101.06371.pdf)
