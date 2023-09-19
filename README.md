@@ -15,6 +15,11 @@ On-device deep learning enables performing inference with models directly on a d
 22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
 
 ## On-device Deep Learning Security
+- A First Look at On-device Models in iOS Apps.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3617177)
+  [[code]](https://github.com/huhanGitHub/iOS-App-database)\
+  venue: *ACM Transactions on Software Engineering and Methodology (TOSEM-23)*
+
 - ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems.
   [[pdf]](https://nzjohng.github.io/publications/papers/issta2023.pdf)
   [[code]](https://github.com/zhoumingyi/ModelObfuscator)\
