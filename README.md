@@ -15,6 +15,11 @@ On-device deep learning enables performing inference with models directly on a d
 22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
 
 ## On-device Deep Learning Security
+- No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML.
+  [[pdf]](https://arxiv.org/pdf/2310.07152)
+  [[code]](https://github.com/ziqi-zhang/TEESlice-artifact)\
+  venue: *2024 IEEE Symposium on Security and Privacy (S&P-2024)*
+
 - Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models.
   [[pdf]](https://arxiv.org/pdf/2403.16479)
   [[code]](https://github.com/zhoumingyi/CustomDLCoder)\
