@@ -18,7 +18,7 @@ On-device deep learning enables performing inference with models directly on a d
 - Quantization Backdoors to Deep Learning Commercial Frameworks.
   [[pdf]](https://arxiv.org/pdf/2108.09187)
   [[code]](https://github.com/quantization-backdoor/quantization-backdoor)\
-  venue: *IEEE Transactions on Dependable and Secure Computing 2024(TDSC-2024)*
+  venue: *IEEE Transactions on Dependable and Secure Computing 2024 (TDSC-2024)*
 
 - No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML.
   [[pdf]](https://arxiv.org/pdf/2310.07152)
