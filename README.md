@@ -18,17 +18,17 @@ On-device deep learning enables performing inference with models directly on a d
 - Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models.
   [[pdf]](https://arxiv.org/pdf/2403.16479)
   [[code]](https://github.com/zhoumingyi/CustomDLCoder)\
-  venue: *The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA-24)*
+  venue: *The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA-2024)*
   
 - Investigating White-Box Attacks for On-Device Models.
   [[pdf]](https://arxiv.org/pdf/2402.05493)
   [[code]](https://github.com/zhoumingyi/REOM)\
-  venue: *IEEE/ACM 46th International Conference on Software Engineering (ICSE-24)*
+  venue: *IEEE/ACM 46th International Conference on Software Engineering (ICSE-2024)*
 
 - A First Look at On-device Models in iOS Apps.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3617177)
   [[code]](https://github.com/huhanGitHub/iOS-App-database)\
-  venue: *ACM Transactions on Software Engineering and Methodology (TOSEM-23)*
+  venue: *ACM Transactions on Software Engineering and Methodology (TOSEM-2023)*
 
 - ModelObfuscator: Obfuscating Model Information to Protect Deployed ML-based Systems.
   [[pdf]](https://nzjohng.github.io/publications/papers/issta2023.pdf)
