@@ -18,7 +18,7 @@ On-device deep learning enables performing inference with models directly on a d
 - Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models.
   [[pdf]](https://arxiv.org/pdf/2403.16479)
   [[code]](https://github.com/zhoumingyi/CustomDLCoder)\
-  venue: *the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA-24)*
+  venue: *The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA-24)*
   
 - Investigating White-Box Attacks for On-Device Models.
   [[pdf]](https://arxiv.org/pdf/2402.05493)
