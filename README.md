@@ -24,6 +24,11 @@ On-device deep learning enables performing inference with models directly on a d
   [[pdf]](https://arxiv.org/pdf/2403.16479)
   [[code]](https://github.com/zhoumingyi/CustomDLCoder)\
   venue: *The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA-2024)*
+
+- DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps.
+  [[pdf]](https://bruceqczhao.github.io/assets/icse24/ICSE24b.pdf)
+  [[code]](https://github.com/MGYN/DeMistify)\
+  venue: *IEEE/ACM 46th International Conference on Software Engineering (ICSE-2024)*
   
 - Investigating White-Box Attacks for On-Device Models.
   [[pdf]](https://arxiv.org/pdf/2402.05493)
