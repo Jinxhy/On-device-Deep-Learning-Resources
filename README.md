@@ -74,11 +74,6 @@ On-device deep learning enables performing inference with models directly on a d
   venue: *IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice 2021 (ICSE-SEIP-2021)*
 
 ## On-device Deep Learning Software Engineering
-- NNStreamer: Efficient and Agile Development of On-Device AI Systems.
-  [[pdf]](https://arxiv.org/pdf/2101.06371.pdf)
-  [[code]](https://github.com/nnstreamer/nnstreamer)\
-  venue: *IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice 2021 (ICSE-SEIP-2021)*
-
 - Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning.
   [[pdf]](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)
   [[code]](https://github.com/qipengwang/Melon)\
@@ -98,6 +93,11 @@ On-device deep learning enables performing inference with models directly on a d
   [[pdf]](https://proceedings.mlsys.org/paper/2022/file/7eabe3a1649ffa2b3ff8c02ebfd5659f-Paper.pdf)
   [[code]](https://github.com/mlcommons)\
   venue: *Proceedings of Machine Learning and Systems 4 (MLSys-2022)*
+
+- NNStreamer: Efficient and Agile Development of On-Device AI Systems.
+  [[pdf]](https://arxiv.org/pdf/2101.06371.pdf)
+  [[code]](https://github.com/nnstreamer/nnstreamer)\
+  venue: *IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice 2021 (ICSE-SEIP-2021)*
 
 - Mistify: Automating DNN Model Porting for On-Device Inference at the Edge.
   [[pdf]](https://www.usenix.org/system/files/nsdi21-guo.pdf)
