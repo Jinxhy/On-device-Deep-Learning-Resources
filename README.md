@@ -15,6 +15,11 @@ On-device deep learning enables performing inference with models directly on a d
 22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
 
 ## On-device Deep Learning Security and Privacy
+- Quantization Backdoors to Deep Learning Commercial Frameworks.
+  [[pdf]](https://arxiv.org/pdf/2108.09187)
+  [[code]](https://github.com/quantization-backdoor/quantization-backdoor)\
+  venue: *IEEE Transactions on Dependable and Secure Computing 2024(TDSC-2024)*
+
 - No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML.
   [[pdf]](https://arxiv.org/pdf/2310.07152)
   [[code]](https://github.com/ziqi-zhang/TEESlice-artifact)\
