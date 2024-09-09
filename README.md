@@ -15,6 +15,11 @@ On-device deep learning enables performing inference with models directly on a d
 22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
 
 ## On-device Deep Learning Security
+- Model-less Is the Best Model: Generating Pure Code Implementations to Replace On-Device DL Models.
+  [[pdf]](https://arxiv.org/pdf/2403.16479)
+  [[code]](https://github.com/zhoumingyi/CustomDLCoder)\
+  venue: *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA-24)*
+  
 - Investigating White-Box Attacks for On-Device Models.
   [[pdf]](https://arxiv.org/pdf/2402.05493)
   [[code]](https://github.com/zhoumingyi/REOM)\
