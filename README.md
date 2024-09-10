@@ -12,6 +12,7 @@ On-device deep learning enables performing inference with models directly on a d
 - No cost: paying for cloud computing cycles is not needed.
 
 ## News :mega:
+10/09/2024: The repository is back to update now!
 22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
 
 ## On-device Deep Learning Security and Privacy
