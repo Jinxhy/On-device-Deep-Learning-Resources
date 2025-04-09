@@ -5,7 +5,7 @@ We will keep maintaining this list in a daily or weekly manner. :wink:
 
 
 #### Why On-device AI?
-On-device AI enables performing inference with models directly on a device (e.g. smartphone). Compared to offloading deep learning models to the cloud, On-device deep learning has many advantages as follows:
+On-device AI enables performing inference with models directly on a device (e.g. smartphone). Compared to offloading deep learning models to the cloud, On-device AI has many advantages as follows:
 - Low Latency: there is no round trip to the server and no wait for results to come back.
 - Privacy: the data processing happens on users' local devices.
 - Works offline: network connectivity is not required.
@@ -15,7 +15,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
 10/09/2024: The repository is back to update now!\
 22/11/2022: The On-device AI Resources repository is first announced!!!
 
-## On-device Deep Learning Security and Privacy
+## On-device AI Security and Privacy
 - THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models.
   [[pdf]](https://arxiv.org/pdf/2503.23748)
   [[code]](https://github.com/Jinxhy/THEMIS)\
@@ -93,7 +93,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
   [[code]](https://github.com/Jinxhy/AppAIsecurity)\
   venue: *IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice 2021 (ICSE-SEIP-2021)*
 
-## On-device Deep Learning Software Engineering
+## On-device AI Software Engineering
 - Melon: Breaking the Memory Wall for Resource-Efficient On-Device Machine Learning.
   [[pdf]](https://xumengwei.github.io/files/MobiSys22-Melo.pdf)
   [[code]](https://github.com/qipengwang/Melon)\
@@ -134,7 +134,7 @@ On-device AI enables performing inference with models directly on a device (e.g.
   [[code]](https://github.com/xumengwei/MobileDL)\
   venue: *The Web Conference 2019 (WWW-2019)*
 
-## On-device Deep Learning Algorithm
+## On-device AI Algorithm
 - Learning Compressed Embeddings for On-Device Inference.
   [[pdf]](https://proceedings.mlsys.org/paper/2022/file/812b4ba287f5ee0bc9d43bbf5bbe87fb-Paper.pdf)\
   venue: *Proceedings of Machine Learning and Systems 4 (MLSys-2022)*
