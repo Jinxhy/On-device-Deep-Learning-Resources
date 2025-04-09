@@ -1,11 +1,11 @@
 # On-device AI Resources
-This GitHub repository summarizes a list of **On-device Deep Learning** resources with a special focus on **Security** and **Software Engineering**.
+This GitHub repository summarizes a list of **On-device AI** resources with a special focus on **Security** and **Software Engineering**.
 
 We will keep maintaining this list in a daily or weekly manner. :wink:
 
 
-#### Why On-device Deep Learning?
-On-device deep learning enables performing inference with models directly on a device (e.g. smartphone). Compared to offloading deep learning models to the cloud, On-device deep learning has many advantages as follows:
+#### Why On-device AI?
+On-device AI enables performing inference with models directly on a device (e.g. smartphone). Compared to offloading deep learning models to the cloud, On-device deep learning has many advantages as follows:
 - Low Latency: there is no round trip to the server and no wait for results to come back.
 - Privacy: the data processing happens on users' local devices.
 - Works offline: network connectivity is not required.
@@ -13,7 +13,7 @@ On-device deep learning enables performing inference with models directly on a d
 
 ## News :mega:
 10/09/2024: The repository is back to update now!\
-22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
+22/11/2022: The On-device AI Resources repository is first announced!!!
 
 ## On-device Deep Learning Security and Privacy
 - THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models.
