@@ -16,6 +16,11 @@ On-device deep learning enables performing inference with models directly on a d
 22/11/2022: The On-device Deep Learning Resources repository is first announced!!!
 
 ## On-device Deep Learning Security and Privacy
+- THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2503.23748)
+  [[code]](https://github.com/Jinxhy/THEMIS)\
+  venue: *34th USENIX Security Symposium (USENIX Security-2025)*
+
 - No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML.
   [[pdf]](https://arxiv.org/pdf/2310.07152)
   [[code]](https://github.com/ziqi-zhang/TEESlice-artifact)\
@@ -76,7 +81,7 @@ On-device deep learning enables performing inference with models directly on a d
 - Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps.
   [[pdf]](https://www.usenix.org/system/files/sec21-sun-zhichuang.pdf)
   [[code]](https://github.com/RiS3-Lab/ModelXRay)\
-  venue: *30th USENIX Security Symposium (USENIX-Security-2021)*
+  venue: *30th USENIX Security Symposium (USENIX Security-2021)*
 
 - DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
