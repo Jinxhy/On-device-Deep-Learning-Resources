@@ -21,6 +21,11 @@ On-device AI enables performing inference with models directly on a device (e.g.
   [[code]](https://github.com/Jinxhy/THEMIS)\
   venue: *34th USENIX Security Symposium (USENIX Security-2025)*
 
+- SoK: All You Need to Know About On-Device ML Model Extraction - The Gap Between Research and Practice.
+  [[pdf]](https://www.usenix.org/conference/usenixsecurity24/presentation/nayan)
+  [[code]](https://github.com/sys-ris3/ML_Extraction_Sok)\
+  venue: *33rd USENIX Security Symposium (USENIX Security-2024)*
+
 - DynaMO: Protecting Mobile DL Models through Coupling Obfuscated DL Operators.
   [[pdf]](https://arxiv.org/pdf/2410.15033)
   [[code]](https://github.com/zhoumingyi/DynaMO)\
