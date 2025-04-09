@@ -21,6 +21,11 @@ On-device AI enables performing inference with models directly on a device (e.g.
   [[code]](https://github.com/Jinxhy/THEMIS)\
   venue: *34th USENIX Security Symposium (USENIX Security-2025)*
 
+- DynaMO: Protecting Mobile DL Models through Coupling Obfuscated DL Operators.
+  [[pdf]](https://arxiv.org/pdf/2410.15033)
+  [[code]](https://github.com/zhoumingyi/DynaMO)\
+  venue: *39th IEEE/ACM International Conference on Automated Software Engineering (ASE-2024)*
+
 - No Privacy Left Outside: On the (In-)Security of TEE-Shielded DNN Partition for On-Device ML.
   [[pdf]](https://arxiv.org/pdf/2310.07152)
   [[code]](https://github.com/ziqi-zhang/TEESlice-artifact)\
